@@ -20,7 +20,6 @@ This project demonstrates the integration between a Product microservice and Cha
    EXCHANGE_API_KEY=your_api_key
    ```
 3. Start each microservice:
-   ```
 
 ## API Documentation
 
